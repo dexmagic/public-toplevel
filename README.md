@@ -2,6 +2,6 @@
 
 Richard Schilling. June 28, 2023.
 
-This directory contains repositories of public information I commit to github.
+This directory contains repositories (git-submodules etc.) of public information I commit publicly.
 
 
