@@ -1,0 +1,3 @@
+[submodule "public-sec"]
+	path = public-sec
+	url = https://github.com/dexmagic/public-sec.git
